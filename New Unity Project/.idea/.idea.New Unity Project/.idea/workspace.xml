@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aab907a6-1d54-4409-a5ac-bd08421ee6f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/gtstv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/gtstv.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/sd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/sd.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/sdfdf.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/sdfdf.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/tesst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/tesst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/aas.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/aas.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +21,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/sd.txt" />
         <option value="$PROJECT_DIR$/Assets/sdfdf.cs" />
-        <option value="$PROJECT_DIR$/Assets/aas.cs" />
         <option value="$PROJECT_DIR$/Assets/gtstv.txt" />
         <option value="$PROJECT_DIR$/Assets/tesst.txt" />
+        <option value="$PROJECT_DIR$/Assets/aas.cs" />
       </list>
     </option>
   </component>
