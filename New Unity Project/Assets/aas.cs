@@ -14,6 +14,5 @@ public class aas : MonoBehaviour
     void Update()
     {
         //sdfsdfsdfsdfsdf
-        ///sdfsdfsfsdfsdf
     }
 }
