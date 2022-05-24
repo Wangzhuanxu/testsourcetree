@@ -13,6 +13,6 @@ public class aas : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //sdfsdfsdfsdfsdf
+        
     }
 }
