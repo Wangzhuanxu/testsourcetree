@@ -1,7 +1,6 @@
 士大夫士大夫威威日
 dsfsdf
 
-<<<<<<< HEAD
 
 sdfsdf
 
@@ -12,4 +11,6 @@ sdfsdf
 
 =======威威
 sdfsdf
->>>>>>> parent of 64344ca... 修改 main
+
+
+士大夫首发式地方

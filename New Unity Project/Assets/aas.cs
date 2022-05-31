@@ -8,6 +8,7 @@ public class aas : MonoBehaviour
     void Start()
     {
         //sdfsfsdfssssssssss顺带的
+        //sdfsfsdfsssssssssssdfsdfsdfs
     }
 
     // Update is called once per frame
@@ -16,5 +17,6 @@ public class aas : MonoBehaviour
         //1 
         //2地方改
 		//是否
+        //2地方改wwwewweew
     }
 }
