@@ -7,7 +7,7 @@ public class aas : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //sdfsfsdfssssssssss
+        //sdfsfsdfssssssssss顺带的
     }
 
     // Update is called once per frame
@@ -15,5 +15,6 @@ public class aas : MonoBehaviour
     {
         //1 
         //2地方改
+		//是否
     }
 }
